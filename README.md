@@ -1,4 +1,4 @@
-# musicapp
+# flutter-desktop-examples
 
 A flutter desktop UI implementation.
 
